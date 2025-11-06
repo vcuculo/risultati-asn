@@ -2,8 +2,16 @@
 
 # Risultati V Quadrimestre ASN 2023
 
-Usciti 107 settori su 190.
+Usciti 115 settori su 190.
 
+- 06/11/2025: 14/C3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/2/5))
+- 06/11/2025: 13/D3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/2/5))
+- 06/11/2025: 12/A1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FA1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FA1/2/5))
+- 06/11/2025: 11/E3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE3/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FE3/2/5))
+- 06/11/2025: 11/D2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD2/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FD2/2/5))
+- 06/11/2025: 05/H1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FH1/2/5))
+- 06/11/2025: 05/E1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE1/2/5))
+- 06/11/2025: 02/B1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FB1/2/5))
 - 06/11/2025: 11/C5 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC5/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC5/2/5))
 - 06/11/2025: 11/C3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC3/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC3/2/5))
 - 06/11/2025: 11/C1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FC1/2/5))
