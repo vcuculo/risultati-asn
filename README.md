@@ -2,8 +2,30 @@
 
 # Risultati V Quadrimestre ASN 2023
 
-Usciti 115 settori su 190.
+Usciti 137 settori su 190.
 
+- 07/11/2025: 13/B3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB3/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FB3/2/5))
+- 07/11/2025: 13/A3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FA3/2/5))
+- 07/11/2025: 12/H3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH3/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH3/2/5))
+- 07/11/2025: 12/H1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FH1/2/5))
+- 07/11/2025: 12/G1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FG1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FG1/2/5))
+- 07/11/2025: 12/E4 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE4/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FE4/2/5))
+- 07/11/2025: 12/C1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FC1/2/5))
+- 07/11/2025: 11/A4 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA4/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/11%252FA4/2/5))
+- 07/11/2025: 10/G1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FG1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FG1/2/5))
+- 07/11/2025: 10/D4 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/10%252FD4/2/5))
+- 07/11/2025: 09/B3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB3/2/5))
+- 07/11/2025: 08/B1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FB1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FB1/2/5))
+- 07/11/2025: 08/A4 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA4/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/08%252FA4/2/5))
+- 07/11/2025: 07/F1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FF1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FF1/2/5))
+- 07/11/2025: 07/A1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FA1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/07%252FA1/2/5))
+- 07/11/2025: 06/M2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM2/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FM2/2/5))
+- 07/11/2025: 05/F1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FF1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FF1/2/5))
+- 07/11/2025: 05/E3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE3/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FE3/2/5))
+- 07/11/2025: 05/D1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FD1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/05%252FD1/2/5))
+- 07/11/2025: 03/C1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FC1/2/5))
+- 07/11/2025: 03/B2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FB2/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/03%252FB2/2/5))
+- 07/11/2025: 02/A1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/02%252FA1/2/5))
 - 06/11/2025: 14/C3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/14%252FC3/2/5))
 - 06/11/2025: 13/D3 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/13%252FD3/2/5))
 - 06/11/2025: 12/A1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FA1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FA1/2/5))
