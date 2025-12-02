@@ -2,8 +2,9 @@
 
 # Risultati V Quadrimestre ASN 2023
 
-Usciti 187 settori su 190.
+Usciti 188 settori su 190.
 
+- 02/12/2025: 06/N1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/06%252FN1/2/5))
 - 15/11/2025: 12/D2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/12%252FD2/2/5))
 - 14/11/2025: 09/D1 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD1/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FD1/2/5))
 - 14/11/2025: 09/B2 ([I Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB2/1/5), [II Fascia](https://asn23.cineca.it/pubblico/miur/esito/09%252FB2/2/5))
